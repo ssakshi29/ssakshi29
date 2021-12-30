@@ -1,9 +1,14 @@
   ###  Hi 👋, I’m SAKSHI SINGH
   
-  I am a final year student at University Institute Of Engineering And Technology, CSJM Kanpur
+  I am a final year student at University Institute Of Engineering And Technology, CSJM Kanpur . You can check my work at the pinned repositories 
+  below: 
+  
+### Key Skills:
+# Programming : C++ (Proficient) •Java • JavaScript 
+# Web Development : HTML • CSS • PHP
+# Database Management : MySQL 
+# Frameworks/Libraries : ReactJS 
 
-            My LinkedIn Profile: https://www.linkedin.com/in/sakshi-s-1667911b0/
-            
  
 
 <!---
