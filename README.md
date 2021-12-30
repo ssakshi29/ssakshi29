@@ -1,8 +1,7 @@
   ###  Hi 👋, I’m SAKSHI SINGH
   
   I am a final year student at University Institute Of Engineering And Technology CSJM Kanpur
-   
- 📫 How to reach me ...
+
             My LinkedIn Profile:https://www.linkedin.com/in/sakshi-s-1667911b0/
             
  
