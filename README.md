@@ -5,7 +5,7 @@
   
 # Key Skills:
 ### Programming : C++ (Proficient) •Java • JavaScript 
-### Web Development : HTML • CSS • PHP
+### Web Development : HTML • CSS • PHP(Basic)
 ### Database Management : MySQL 
 ### Frameworks/Libraries : ReactJS 
 
